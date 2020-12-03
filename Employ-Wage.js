@@ -191,7 +191,7 @@
             let empWage = calcDailyWage(totalEmpHrs);
             console.log(" Total Days: " + totalWorkingDays + "  Total Hrs: " +totalEmpHrs+ " Emp Wage: " + empWage); 
  }
-//uc-7
+//uc-7 array-Helper Function
  {
     const IS_FULL_TIME = 1;
     const IS_PART_TIME = 2;
